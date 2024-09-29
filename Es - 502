@@ -190,19 +190,6 @@
         <mxCell id="ciqHmNbwf2Ur050XnrFQ-108" value="+ Data_Ricovero&lt;div&gt;+ Data_Dimissione&lt;br&gt;&lt;div&gt;+ Motivo_Ricovero&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="ciqHmNbwf2Ur050XnrFQ-107" vertex="1">
           <mxGeometry y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ciqHmNbwf2Ur050XnrFQ-112" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;entryX=-0.009;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ciqHmNbwf2Ur050XnrFQ-60" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="320" as="sourcePoint" />
-            <mxPoint x="610" y="320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="570" y="320" />
-              <mxPoint x="570" y="296" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ciqHmNbwf2Ur050XnrFQ-113" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="ciqHmNbwf2Ur050XnrFQ-112" connectable="0" vertex="1">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ciqHmNbwf2Ur050XnrFQ-114" value="" style="endArrow=none;html=1;rounded=0;entryX=0.996;entryY=0.177;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.217;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ciqHmNbwf2Ur050XnrFQ-82" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350.72" y="263.45" as="sourcePoint" />
@@ -223,8 +210,8 @@
             <mxPoint x="400" y="300" as="sourcePoint" />
             <mxPoint x="560" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="200" />
-              <mxPoint x="330" y="210" />
+              <mxPoint x="340" y="200" />
+              <mxPoint x="340" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -245,6 +232,21 @@
         </mxCell>
         <mxCell id="O6cwfUKebZtBVyvl0Job-4" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="O6cwfUKebZtBVyvl0Job-3">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O6cwfUKebZtBVyvl0Job-16" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.001;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ciqHmNbwf2Ur050XnrFQ-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="320" as="sourcePoint" />
+            <mxPoint x="600" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="320" />
+              <mxPoint x="560" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O6cwfUKebZtBVyvl0Job-17" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="O6cwfUKebZtBVyvl0Job-16">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
